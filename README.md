@@ -11,10 +11,10 @@ Pygame graphics
 Strategic computer opponent  
 
 **How to Play**  
-Run the game  
-Click on empty squares to make your move  
-AI responds with optimal moves  
-Create a line of four to win!  
+1. Run the game  
+2. Click on empty squares to make your move  
+3. AI responds with optimal moves  
+4. Create a line of four to win!  
 
 **Technical Details**  
 Python-based  
